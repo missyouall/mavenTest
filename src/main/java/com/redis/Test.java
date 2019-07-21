@@ -7,6 +7,6 @@ package com.redis;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("hello test1 irde");
+        System.out.println("hello test1");
     }
 }
